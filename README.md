@@ -16,7 +16,7 @@
 
 
 ## **`Packages`**
-
+- 🔷 [**`Laravel Translations UI`**](https://github.com/MohmmedAshraf/laravel-translations) Laravel Translations UI provides a simple way to manage your translations in your Laravel application. It allows you to add, edit, delete and export translations, and it also provides a search functionality to find translations.
 - 🔷 [**`Blade Flags`**](https://github.com/MohmmedAshraf/blade-flags) Laravel package to easily to display countries & languages flags in your Laravel Blade views.
 - 🔷 [**`Nova Hidden Fields`**](https://github.com/MohmmedAshraf/nova-hidden-field) Ability to add a hidden fields to your resources.
 - 🔷 [**`Nova Fields Agent`**](https://github.com/MohmmedAshraf/nova-fields-agent) Ability to hide fields from your resources table on mobile screens for a better responsive concept
