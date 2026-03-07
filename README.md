@@ -19,17 +19,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**Laravel Translations UI**](https://github.com/MohmmedAshraf/laravel-translations) | Manage translations in your Laravel app — add, edit, delete, export, and search translations with an intuitive UI. |
+| [**Translations UI**](https://github.com/MohmmedAshraf/laravel-translations) | Manage translations in your Laravel app — add, edit, delete, export, and search translations with an intuitive UI. |
 | [**Blade Flags**](https://github.com/MohmmedAshraf/blade-flags) | Display country and language flags in Laravel Blade views with a simple component. |
 | [**Nova Hidden Fields**](https://github.com/MohmmedAshraf/nova-hidden-field) | Add hidden fields to your Laravel Nova resources. |
 | [**Nova Fields Agent**](https://github.com/MohmmedAshraf/nova-fields-agent) | Hide fields from Nova resource tables on mobile screens for better responsiveness. |
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohmmedAshraf&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohmmedAshraf&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
