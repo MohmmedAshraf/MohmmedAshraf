@@ -27,7 +27,7 @@
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohmmedAshraf&hide_border=true&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohmmedAshraf&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p>
